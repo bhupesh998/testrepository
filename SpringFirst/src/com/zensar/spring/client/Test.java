@@ -18,6 +18,8 @@ public class Test {
 		empl.setEmployeeSalary(1000);
 		System.out.println(empl);
 		
+		System.out.println("hello github");
+		
 		
 	}
 
